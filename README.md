@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sombewendin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web programming
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning python with Jonathan Roux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sbarbaraouedraogo@gmail.com
 
